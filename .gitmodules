@@ -1,0 +1,6 @@
+[submodule "firmware/lib/avr-debug"]
+	path = firmware/lib/avr-debug
+	url = https://github.com/specadmin/avr-debug
+[submodule "firmware/lib/avr-misc"]
+	path = firmware/lib/avr-misc
+	url = https://github.com/specadmin/avr-misc
