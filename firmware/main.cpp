@@ -1,9 +1,10 @@
 //-----------------------------------------------------------------------------
+#include <avr/wdt.h>
 #include "lib/avr-misc/avr-misc.h"
 //-----------------------------------------------------------------------------
 int main()
 {
-    disable_watchdog();
+    wdt_disable();
     set_bits(DDRB, 0, 1, 2, 3, 7);
     set_bits(PORTB, 0);
     mdelay(400);
