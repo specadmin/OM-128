@@ -17,7 +17,7 @@
 					<Add option="-D__AVR_ATmega1284P__" />
 				</Compiler>
 				<Environment>
-					<Variable name="FUSES" value="-U hfuse:w:0xD1:m -U lfuse:w:0xE7:m" />
+					<Variable name="FUSES" value="-U hfuse:w:0xD1:m -U lfuse:w:0xE7:m -U efuse:w:0xFC:m" />
 					<Variable name="MCU" value="atmega1284p" />
 				</Environment>
 			</Target>
