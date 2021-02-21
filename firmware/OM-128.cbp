@@ -32,7 +32,7 @@
 			<Add option="-x c++" />
 			<Add option="-save-temps=obj" />
 			<Add option="-mmcu=$(MCU)" />
-			<Add option="-DF_CPU=16000000UL" />
+			<Add option="-DF_CPU=20000000UL" />
 			<Add option="-DDEBUG" />
 			<Add directory="include" />
 		</Compiler>
