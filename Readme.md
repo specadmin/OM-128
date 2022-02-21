@@ -27,10 +27,10 @@ This repository contains
 ## PCB ##
 
 Front view
-<div align="center"> <img src="PCB/Gerber.png_Combined_Top.png" width="400"/> </div>
+<div align="center"> <img src="PCB/Gerber.png_Combined_Top.jpg" width="500"/> </div>
 
 Rear view
-<div align="center"> <img src="PCB/Gerber.png_Combined_Bottom.png" width="400"/> </div>
+<div align="center"> <img src="PCB/Gerber.png_Combined_Bottom.jpg" width="500"/> </div>
 
 
 ## Available for purchasing ##
